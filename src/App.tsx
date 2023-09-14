@@ -1,11 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header-mf1">
         MicroFrontend 1
       </header>
     </div>
