@@ -34,7 +34,7 @@ module.exports = {
             name: "microfrontend1",
             filename: "remoteEntry.js",
             exposes: {
-                "./AppMF1": "./src/App",
+                "./App": "./src/App",
             },
             shared: {
                 ...deps,
