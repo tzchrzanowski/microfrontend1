@@ -4,16 +4,12 @@
 
 .App-header-mf1 {
   background-color: #282c34;
-  min-height: 90vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.microfrontends-container {
-  display: flex;
-  flex-direction: row;
+  min-width: 50vw;
 }

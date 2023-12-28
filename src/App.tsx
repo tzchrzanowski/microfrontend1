@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header-mf1">
-        MicroFrontend 1
+        MicroFrontend 1 : React
       </header>
     </div>
   );
